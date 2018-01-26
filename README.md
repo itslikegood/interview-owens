@@ -6,6 +6,8 @@ Treat this excercise as something you would do while working at your day job.  W
 #### Spec Overview
 Design a small application that first and foremost is a video viewing web app for the modern day browser. Base your implementation on the visual specification (*See adjacent PNG for design spec*) we reviewed.
 
+The app should be written using a modern day framework.
+
 #### Assumptions
 1. Please mock out any APIs within your client side code.
   a. Bonus points for creating a server side mock api (your language of choice), no need to setup a database.
