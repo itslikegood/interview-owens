@@ -16,3 +16,4 @@ The app should be written using a modern day framework.
 
 
 Good luck!
+Please submit your PR by the end of the week (Friday Feb 2).
